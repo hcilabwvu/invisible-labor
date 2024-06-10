@@ -12,6 +12,10 @@ You can download the research paper from this [link](https://arxiv.org/abs/2110.
 
 You can download the Chrome Extension plugin from the [code repository](https://github.com/hcilabwvu/invisible-labor).
 
+## Data
+
+Please complete [this form](https://research.hcilab.ml/invisible-labor/agreement_il.docx), sign it and send it to the email addresses indicated in the form. We will send you a temporary link to your email with an anonymized version of the dataset.
+
 ## Citation
 
 Carlos Toxtli, Siddharth Suri, and Saiph Savage. 2021. 
